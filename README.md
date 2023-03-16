@@ -28,10 +28,10 @@ Applying machine learing tasks like Data Exploration, Data Cleaning, Feature Eng
 
 
 ## Web Inerface :
-![alt text]()
+![alt text](https://github.com/SahilChipkar/Insurance-prediction/blob/main/images/webapp%20interface-1%20.png)
 
 
-![alt text]()
+![alt text](https://github.com/SahilChipkar/Insurance-prediction/blob/main/images/webapp%20interface-2.png)
 
 
 ## Libraries used :
@@ -50,4 +50,4 @@ Applying machine learing tasks like Data Exploration, Data Cleaning, Feature Eng
     4) Deployment : Heruko
 
 # Insurance_Prediction
-# Insurance_Prediction
+
